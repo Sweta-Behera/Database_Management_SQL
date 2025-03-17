@@ -22,7 +22,7 @@ The project consists of **8 core relational tables**:
 * RewardClaims
 * PaymentMethods
 
-### Technologies Used
+### Tools & Technologies Used
 * **Database:** MySQL
 * **Language:** SQL
 * **Version Control:** Git & GitHub
